@@ -29,15 +29,13 @@ Organize your repository as follows:
 ├── scripts/
 │   ├── deploy.sh                    # Shell script to automate setup and teardown
 ├── docs/
-│   ├── README_TASK.md               # Detailed task instructions
-│   ├── README_ASSESSMENT.md         # Assessment criteria
-├── README.md                        # Main README with overview and submission instructions
+├── README.md                        # Main README
 ```
 
 ## Submission Instructions
 
 - Create a new GitHub repository with the above structure.
-- Implement the task as outlined in docs/README_TASK.md.
+- Implement the task as outlined in README_TASK.md.
 - Ensure the automated script works on any machine with Docker Desktop and Kubernetes enabled.
 - Submit the GitHub repository link once complete.
 
