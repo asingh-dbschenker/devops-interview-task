@@ -41,7 +41,7 @@ Organize your repository as follows:
 
 ## Additional Notes
 
-- The assessment criteria are available in README_ASSESSMENT.md.
+- The assessment criteria are available in [README_ASSESSMENT.md](README_ASSESSMENT.md).
 - Follow best practices for Docker, Kubernetes, and shell scripting.
 - Document any assumptions or additional notes in the main README or relevant README files in each directory.
 
